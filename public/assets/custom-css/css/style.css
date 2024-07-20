@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+/* Section Form Login */
+.section-login {
+  width: 400px !important;
+  height: auto !important;
+}
+/* End Section Form Login */
+
+/* Section Form Register */
+.section-regis {
+  width: 450px !important;
+  height: auto !important;
+}
+/* End Section Form Register */
+
+/* Section halaman utama Login */
+.img-pengaduan {
+  max-width: 550px !important;
+  width: 100% !important;
+  height: auto !important;
+}
+
+.nav-index .nav-link {
+  margin-bottom: 1px !important;
+}
+/* End Section halaman utama Login */

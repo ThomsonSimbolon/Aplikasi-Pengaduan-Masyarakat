@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.6.2",
+    "chart.js": "^2.8.0",
+    "datatables.net": "^2.0.7",
+    "datatables.net-bs5": "^2.0.7",
+    "jquery": "^3.5.1",
+    "simple-datatables": "^7.1.2"
+  }
+}
